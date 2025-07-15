@@ -1,1 +1,1 @@
-Learning about basics of shaders in Minecraft
+Learning the basics of shaders in Minecraft
